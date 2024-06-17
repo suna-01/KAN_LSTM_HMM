@@ -1,1 +1,1 @@
--Thực nghiệm kết quả của 3 mô hình kolmogorov arnold network, long short term memory, hidden markov model đối với dữ liệu timeseries biến động bất thường nhưng bộ dataset về chứng khoán của Microsoft
+-Thực nghiệm kết quả của 3 mô hình kolmogorov arnold network, long short term memory, hidden markov model đối với dữ liệu timeseries biến động bất thường như bộ dataset về chứng khoán của Microsoft
